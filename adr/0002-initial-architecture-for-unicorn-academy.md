@@ -17,7 +17,7 @@ Unicorn Academy will be hosted at https://academy.defenseunicorns.com and will b
 - [Netlify](https://www.netlify.com/) for hosting
 - [Docusaurus](https://docusaurus.io/) to author content 
 
-These are both already used in various other projects at Defense Unicorns including the company website.
+These are both already used in various other projects at Defense Unicorns including the company website.  The primary driver for these selections is that there is already in house knowledge around these tools and their nuances.  
 
 ## Consequences 
 
