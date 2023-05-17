@@ -6,6 +6,8 @@ Date: 2023-05-09
 
 Accepted
 
+Amended by [3. Use Hugo over Docusaurus for Unicorn Academy documentation](0003-use-hugo-over-docusaurus-for-unicorn-academy-documentation.md)
+
 ## Context
 
 Unicorn Academy currently exists only in a few people's heads.  This repo is the start of making it come to life.  Step 0 in enabling that is deciding where Unicorn Academy is going to live.
